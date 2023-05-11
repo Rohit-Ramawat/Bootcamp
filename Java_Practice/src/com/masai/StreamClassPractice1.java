@@ -12,3 +12,4 @@ public class StreamClassPractice1 {
 	}
 
 }
+//Note:- Program to find the maximum element in the array using collection and stream
