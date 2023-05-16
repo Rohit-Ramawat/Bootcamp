@@ -20,6 +20,8 @@ public class ReverseTheString {
 		System.out.print("Enter your string : ");
 		String str = sc.nextLine();
 		reverseString(str);
+		
+		sc.close();
 	}
-
+	
 }
