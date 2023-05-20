@@ -38,7 +38,7 @@ public class SubStringOfLengthK {
 		
 		do {
 			System.out.println("*--------------------------------------*");
-			System.out.println("|    Press 1 to check Anagram strings  |");
+			System.out.println("|    Press 1 to Substrings of length k |");
 			System.out.println("|    Press 0 to exit                   |");
 			System.out.println("*--------------------------------------*");
 			System.out.print("Enter your choice : ");
